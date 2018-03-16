@@ -1,0 +1,8 @@
+## Canter Product Server
+
+# Usage
+
+To run in development mode, use:
+`ssh
+sbt run
+`
