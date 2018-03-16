@@ -1,0 +1,16 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+project/target
+project/project
+gradle
+gradlew
+gradlew.bat
+project/scaffold.sbt
+.g8
+.gradle
